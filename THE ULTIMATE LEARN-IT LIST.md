@@ -29,13 +29,13 @@
 
 # reading gpt 4 recommended:
 **C
- -  Beginner: “C Programming Absolute Beginner’s Guide” by Greg Perry and Dean Miller 
--   Intermediate: “C Programming Language” by Brian W. Kernighan and Dennis M. Ritchie
--   Advanced: “Expert C Programming: Deep C Secrets” by Peter van der Linden
+ -  ~~Beginner: “C Programming Absolute Beginner’s Guide” by Greg Perry and Dean Miller ~~
+-   ~~Intermediate: “C Programming Language” by Brian W. Kernighan and Dennis M. Ritchie~~
+-   ~~Advanced: “Expert C Programming: Deep C Secrets” by Peter van der Linden~~
 **C++**
--   Beginner: “C++ Primer Plus” by Stephen Prata
--   Intermediate: “Effective C++: 55 Specific Ways to Improve Your Programs and Designs” by Scott Meyers
--   Advanced: “The C++ Programming Language” by Bjarne Stroustrup
+-   ~~Beginner: “C++ Primer Plus” by Stephen Prata~~
+-   ~~Intermediate: “Effective C++: 55 Specific Ways to Improve Your Programs and Designs” by Scott Meyers~~
+-   ~~Advanced: “The C++ Programming Language” by Bjarne Stroustrup~~
 **Java**
 -   ~~Beginner: “Head First Java” by Kathy Sierra and Bert Bates~~
 -   ~~Intermediate: “Effective Java” by Joshua Bloch~~
@@ -131,7 +131,7 @@
 
 ---
 ## beginner 
--   C: “C Programming Absolute Beginner’s Guide” by Greg Perry and Dean Miller
+-   ~~C: “C Programming Absolute Beginner’s Guide” by Greg Perry and Dean Miller~~
 -   C++: “C++ Primer” (5th Edition) by Lippman, Lajoie, and Moo
 -   ~~Java: “Head First Java” by Kathy Sierra and Bert Bates~~
 -  C#: “C# 8.0 in a Nutshell” by Joseph Albahari and Ben Albahari
@@ -179,8 +179,8 @@
 -   Delphi: “Delphi Programming for Dummies” by Neil J. Rubenking
 -   Assembly: “Assembly Language Step-by-Step” (3rd Edition) by Jeff Duntemann
 ## advanced
--   C: “C Programming Language” (2nd Edition) by Brian W. Kernighan and Dennis M. Ritchie
--   C++: “The C++ Programming Language” (4th Edition) by Bjarne Stroustrup
+-   ~~C: “C Programming Language” (2nd Edition) by Brian W. Kernighan and Dennis M. Ritchie~~
+-   ~~C++: “The C++ Programming Language” (4th Edition) by Bjarne Stroustrup~~
 -   C#: “C# 8.0 in a Nutshell” by Joseph Albahari and Ben Albahari
 -   Objective-C: “Programming in Objective-C” (6th Edition) by Stephen G. Kochan
 -   Swift: “The Swift Programming Language” by Apple Inc.
